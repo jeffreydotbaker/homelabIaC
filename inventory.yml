@@ -1,0 +1,4 @@
+#inventory.yaml
+[ubuntusvrs]
+172.17.0.2  #replace with your server ip's
+172.17.0.3  #replace with your server ip's
